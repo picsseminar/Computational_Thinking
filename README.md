@@ -11,13 +11,13 @@
 #### Decomposition:
 * Break it down into smaller addition problems:
 
-** 1+2, 3+4, 5+6, ...
+* 1+2, 3+4, 5+6, ...
 
-*** Do you notice any useful patterns?
+* Do you notice any useful patterns?
 
-** 200 + 1, 199 + 2, 198 + 3, ...
+* 200 + 1, 199 + 2, 198 + 3, ...
 
-*** Do you notice any useful patterns this time?
+* Do you notice any useful patterns this time?
 
 ## Pattern Recognition:
 * The useful pattern is that each pair sums to 201.
@@ -27,7 +27,7 @@
 ## Abstraction:
 * Our problem can be solved by finding the sum of the pairs, the number of pairs, and the product of those numbers.
 
-** 201 (sum of pairs) * 100 (200/2 number of pairs)
+* 201 (sum of pairs) * 100 (200/2 number of pairs)
 
 * In general, if we want to sum the integers from 1 to n the solution is the same...
 
