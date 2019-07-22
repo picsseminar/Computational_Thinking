@@ -16,7 +16,7 @@
 - Length of seasons
 - Is this a fish?
 
-# Abstraction:
+## Abstraction:
 - Ford Focus, Toyota Camry, Tesla Model 3 -> Cars
 - Car, Truck, Motorcycle, Plane -> Transportation
 - Tiny House, Dorm, Apartment, Condo, House -> Housing
