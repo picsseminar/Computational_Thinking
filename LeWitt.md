@@ -18,13 +18,37 @@ def drawBox(l,w,t):
         t.left(90)
 
 def drawRedLines(parameters):
-  ## Your Code here
+  t.color('red')
+  for i in range(i):
+    endX =
+    endY =
+    t.pu()
+    t.goto(startX,startY)
+    t.pd()
+    t.goto(endX,endY)
+  
   
 def drawYellowLines(parameters):
-  ## Your Code here
+  t.color('yellow')
+  for i in range(i):
+    endX =
+    endY =
+    t.pu()
+    t.goto(startX,startY)
+    t.pd()
+    t.goto(endX,endY)
+  
   
 def drawBlueLines(parameters):
-  ## Your Code here
+  t.color('blue')
+  for i in range(i):
+    endX =
+    endY =
+    t.pu()
+    t.goto(startX,startY)
+    t.pd()
+    t.goto(endX,endY)
+  
   
 wn = turtle.Screen()
 tom = turtle.Turtle()
